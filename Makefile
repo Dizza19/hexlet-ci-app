@@ -1,5 +1,5 @@
+[![CI](https://github.com/Dizza19/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Dizza19/hexlet-ci-app/actions/workflows/ci.yml)
 setup: install build
-
 install:
 	npm install
 
